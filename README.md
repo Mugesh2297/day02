@@ -10,9 +10,7 @@ Small Files Load More Quickly Than Large Ones. To Speed Up Web Performance, Both
 
 
 2. Write a blog about objects and its internal representation in Javascript
-Ans:
-
-Objects Are Important Data Types In Javascript. Objects Are Different Than Primitive Datatypes (I.E. Number, String, Boolean, Etc.). Primitive Data Types Contain One Value But Objects Can Hold Many Values In Form Of Key: Value Pair. These Keys Can Be Variables Or Functions And Are Called Properties And Methods, Respectively, In The Context Of An Object. For Instance, A Cup Is An Object, With Properties. A Cup Has A Color, A Design, Weight, A Material It Is Made Of, Etc. The Same Way, Javascript Objects Can Have Properties, Which Define Their Characteristics.
+Ans:Objects Are Important Data Types In Javascript. Objects Are Different Than Primitive Datatypes (I.E. Number, String, Boolean, Etc.). Primitive Data Types Contain One Value But Objects Can Hold Many Values In Form Of Key: Value Pair. These Keys Can Be Variables Or Functions And Are Called Properties And Methods, Respectively, In The Context Of An Object. For Instance, A Cup Is An Object, With Properties. A Cup Has A Color, A Design, Weight, A Material It Is Made Of, Etc. The Same Way, Javascript Objects Can Have Properties, Which Define Their Characteristics.
 Every Object Has Some Property Associated With Some Value. These Values Can Be Accessed Using These Properties Associated With Them.
 var mycup {
 color : “Red”,
